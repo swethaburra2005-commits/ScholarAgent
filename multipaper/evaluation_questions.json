@@ -1,0 +1,42 @@
+[
+    {
+        "id": "q1",
+        "question": "What are the main approaches used to detect hallucinations in large language models?"
+    },
+    {
+        "id": "q2",
+        "question": "What are the major challenges in detecting hallucinations in large language models?"
+    },
+    {
+        "id": "q3",
+        "question": "What types of signals can be used to detect hallucinations in generated text?"
+    },
+    {
+        "id": "q4",
+        "question": "How can natural language inference be used for hallucination detection?"
+    },
+    {
+        "id": "q5",
+        "question": "What are the limitations of existing hallucination detection methods?"
+    },
+    {
+        "id": "q6",
+        "question": "How does retrieval augmented generation relate to hallucination detection?"
+    },
+    {
+        "id": "q7",
+        "question": "What methods can detect hallucinations without access to the internal states of a language model?"
+    },
+    {
+        "id": "q8",
+        "question": "How are multiple signals combined for token-level hallucination detection?"
+    },
+    {
+        "id": "q9",
+        "question": "What role does uncertainty or model confidence play in hallucination detection?"
+    },
+    {
+        "id": "q10",
+        "question": "What are the future research directions for hallucination detection?"
+    }
+]

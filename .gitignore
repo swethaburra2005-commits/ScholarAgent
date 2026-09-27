@@ -1,0 +1,73 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Operating System
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+*.key
+*.pem
+
+# =========================
+# Python tooling / caches
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Temporary / Log files
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# Streamlit secrets
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# Uploaded research PDFs
+# =========================
+*.pdf
+
+# =========================
+# ML / Hugging Face caches
+# =========================
+.cache/
+huggingface/
+transformers/
+torch/
+
+# =========================
+# OS / local generated files
+# =========================
+*.DS_Store 

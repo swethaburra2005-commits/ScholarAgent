@@ -1,0 +1,1322 @@
+{
+    "q1": {
+        "question": "What are the main approaches used to detect hallucinations in large language models?",
+        "retrieval_top10": [
+            {
+                "rank": 1,
+                "paper_id": "paper_003",
+                "chunk_id": 49,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.692080020904541
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 41,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6659681797027588
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6524794101715088
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_005",
+                "chunk_id": 32,
+                "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+                "arxiv_url": "http://arxiv.org/abs/2608.18115v1",
+                "retrieval_score": 0.6478939056396484
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_004",
+                "chunk_id": 7,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.6426234245300293
+            },
+            {
+                "rank": 6,
+                "paper_id": "paper_003",
+                "chunk_id": 38,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6359692215919495
+            },
+            {
+                "rank": 7,
+                "paper_id": "paper_001",
+                "chunk_id": 27,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6290193200111389
+            },
+            {
+                "rank": 8,
+                "paper_id": "paper_001",
+                "chunk_id": 38,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6254981160163879
+            },
+            {
+                "rank": 9,
+                "paper_id": "paper_001",
+                "chunk_id": 2,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6248358488082886
+            },
+            {
+                "rank": 10,
+                "paper_id": "paper_004",
+                "chunk_id": 30,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.6057833433151245
+            }
+        ],
+        "reranked_top5": [
+            {
+                "rank": 1,
+                "paper_id": "paper_001",
+                "chunk_id": 38,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6254981160163879,
+                "rerank_score": 0.9997033476829529
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_004",
+                "chunk_id": 7,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.6426234245300293,
+                "rerank_score": 0.9977678060531616
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_005",
+                "chunk_id": 32,
+                "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+                "arxiv_url": "http://arxiv.org/abs/2608.18115v1",
+                "retrieval_score": 0.6478939056396484,
+                "rerank_score": 0.9968956708908081
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_003",
+                "chunk_id": 38,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6359692215919495,
+                "rerank_score": 0.9963776469230652
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_004",
+                "chunk_id": 30,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.6057833433151245,
+                "rerank_score": 0.992953360080719
+            }
+        ]
+    },
+    "q2": {
+        "question": "What are the major challenges in detecting hallucinations in large language models?",
+        "retrieval_top10": [
+            {
+                "rank": 1,
+                "paper_id": "paper_003",
+                "chunk_id": 49,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.710565447807312
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 41,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6909778118133545
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_003",
+                "chunk_id": 38,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6804242134094238
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_004",
+                "chunk_id": 7,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.6717283725738525
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_005",
+                "chunk_id": 32,
+                "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+                "arxiv_url": "http://arxiv.org/abs/2608.18115v1",
+                "retrieval_score": 0.659032940864563
+            },
+            {
+                "rank": 6,
+                "paper_id": "paper_001",
+                "chunk_id": 2,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6435285210609436
+            },
+            {
+                "rank": 7,
+                "paper_id": "paper_003",
+                "chunk_id": 2,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6416409015655518
+            },
+            {
+                "rank": 8,
+                "paper_id": "paper_001",
+                "chunk_id": 38,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6398888230323792
+            },
+            {
+                "rank": 9,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6321055889129639
+            },
+            {
+                "rank": 10,
+                "paper_id": "paper_004",
+                "chunk_id": 30,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.6273846626281738
+            }
+        ],
+        "reranked_top5": [
+            {
+                "rank": 1,
+                "paper_id": "paper_003",
+                "chunk_id": 38,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6804242134094238,
+                "rerank_score": 0.9983550906181335
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_001",
+                "chunk_id": 38,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6398888230323792,
+                "rerank_score": 0.9955620765686035
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_004",
+                "chunk_id": 30,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.6273846626281738,
+                "rerank_score": 0.9944630265235901
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_005",
+                "chunk_id": 32,
+                "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+                "arxiv_url": "http://arxiv.org/abs/2608.18115v1",
+                "retrieval_score": 0.659032940864563,
+                "rerank_score": 0.9902476668357849
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6321055889129639,
+                "rerank_score": 0.9876898527145386
+            }
+        ]
+    },
+    "q3": {
+        "question": "What types of signals can be used to detect hallucinations in generated text?",
+        "retrieval_top10": [
+            {
+                "rank": 1,
+                "paper_id": "paper_001",
+                "chunk_id": 27,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6478679180145264
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_004",
+                "chunk_id": 7,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.6201542615890503
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_003",
+                "chunk_id": 40,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5814717411994934
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5735899806022644
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_001",
+                "chunk_id": 2,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5664459466934204
+            },
+            {
+                "rank": 6,
+                "paper_id": "paper_001",
+                "chunk_id": 6,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.560851514339447
+            },
+            {
+                "rank": 7,
+                "paper_id": "paper_003",
+                "chunk_id": 3,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5524767637252808
+            },
+            {
+                "rank": 8,
+                "paper_id": "paper_003",
+                "chunk_id": 17,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5406584143638611
+            },
+            {
+                "rank": 9,
+                "paper_id": "paper_003",
+                "chunk_id": 2,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5315244197845459
+            },
+            {
+                "rank": 10,
+                "paper_id": "paper_001",
+                "chunk_id": 1,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5289254188537598
+            }
+        ],
+        "reranked_top5": [
+            {
+                "rank": 1,
+                "paper_id": "paper_003",
+                "chunk_id": 17,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5406584143638611,
+                "rerank_score": 0.9956798553466797
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 2,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5315244197845459,
+                "rerank_score": 0.9830740094184875
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_003",
+                "chunk_id": 3,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5524767637252808,
+                "rerank_score": 0.9805623292922974
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_001",
+                "chunk_id": 27,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6478679180145264,
+                "rerank_score": 0.9661041498184204
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_001",
+                "chunk_id": 2,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5664459466934204,
+                "rerank_score": 0.9189876914024353
+            }
+        ]
+    },
+    "q4": {
+        "question": "How can natural language inference be used for hallucination detection?",
+        "retrieval_top10": [
+            {
+                "rank": 1,
+                "paper_id": "paper_003",
+                "chunk_id": 41,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6963942646980286
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6859592199325562
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_001",
+                "chunk_id": 6,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6663854122161865
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_004",
+                "chunk_id": 7,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.6628881692886353
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_003",
+                "chunk_id": 4,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6581871509552002
+            },
+            {
+                "rank": 6,
+                "paper_id": "paper_003",
+                "chunk_id": 49,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6540514826774597
+            },
+            {
+                "rank": 7,
+                "paper_id": "paper_001",
+                "chunk_id": 4,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6443585753440857
+            },
+            {
+                "rank": 8,
+                "paper_id": "paper_001",
+                "chunk_id": 16,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6396167278289795
+            },
+            {
+                "rank": 9,
+                "paper_id": "paper_001",
+                "chunk_id": 38,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6313965916633606
+            },
+            {
+                "rank": 10,
+                "paper_id": "paper_003",
+                "chunk_id": 17,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6102656126022339
+            }
+        ],
+        "reranked_top5": [
+            {
+                "rank": 1,
+                "paper_id": "paper_001",
+                "chunk_id": 16,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6396167278289795,
+                "rerank_score": 0.986464262008667
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 41,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6963942646980286,
+                "rerank_score": 0.9460143446922302
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_001",
+                "chunk_id": 38,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6313965916633606,
+                "rerank_score": 0.899213969707489
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_004",
+                "chunk_id": 7,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.6628881692886353,
+                "rerank_score": 0.5544300675392151
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_003",
+                "chunk_id": 4,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6581871509552002,
+                "rerank_score": 0.508886992931366
+            }
+        ]
+    },
+    "q5": {
+        "question": "What are the limitations of existing hallucination detection methods?",
+        "retrieval_top10": [
+            {
+                "rank": 1,
+                "paper_id": "paper_003",
+                "chunk_id": 31,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6592936515808105
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 4,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6380819082260132
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_001",
+                "chunk_id": 5,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6276580095291138
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6256815195083618
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_003",
+                "chunk_id": 16,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6165274381637573
+            },
+            {
+                "rank": 6,
+                "paper_id": "paper_003",
+                "chunk_id": 29,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5982920527458191
+            },
+            {
+                "rank": 7,
+                "paper_id": "paper_003",
+                "chunk_id": 3,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5815147757530212
+            },
+            {
+                "rank": 8,
+                "paper_id": "paper_003",
+                "chunk_id": 41,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5738720893859863
+            },
+            {
+                "rank": 9,
+                "paper_id": "paper_001",
+                "chunk_id": 4,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5697306394577026
+            },
+            {
+                "rank": 10,
+                "paper_id": "paper_003",
+                "chunk_id": 33,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5616005659103394
+            }
+        ],
+        "reranked_top5": [
+            {
+                "rank": 1,
+                "paper_id": "paper_003",
+                "chunk_id": 4,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6380819082260132,
+                "rerank_score": 0.9939629435539246
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_001",
+                "chunk_id": 5,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6276580095291138,
+                "rerank_score": 0.9445748925209045
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_003",
+                "chunk_id": 3,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5815147757530212,
+                "rerank_score": 0.7829700708389282
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_003",
+                "chunk_id": 33,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5616005659103394,
+                "rerank_score": 0.4548032581806183
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_003",
+                "chunk_id": 16,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6165274381637573,
+                "rerank_score": 0.4402480721473694
+            }
+        ]
+    },
+    "q6": {
+        "question": "How does retrieval augmented generation relate to hallucination detection?",
+        "retrieval_top10": [
+            {
+                "rank": 1,
+                "paper_id": "paper_001",
+                "chunk_id": 6,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6712889671325684
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 4,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6236037015914917
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5915787220001221
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_002",
+                "chunk_id": 11,
+                "title": "RAG System for Supporting Japanese Litigation Procedures: Faithful Response Generation Complying with Legal Norms",
+                "arxiv_url": "http://arxiv.org/abs/2511.22858v1",
+                "retrieval_score": 0.5873886346817017
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_003",
+                "chunk_id": 33,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5764288902282715
+            },
+            {
+                "rank": 6,
+                "paper_id": "paper_003",
+                "chunk_id": 31,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5684813261032104
+            },
+            {
+                "rank": 7,
+                "paper_id": "paper_001",
+                "chunk_id": 5,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.563582718372345
+            },
+            {
+                "rank": 8,
+                "paper_id": "paper_003",
+                "chunk_id": 41,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5615314245223999
+            },
+            {
+                "rank": 9,
+                "paper_id": "paper_003",
+                "chunk_id": 9,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5614508390426636
+            },
+            {
+                "rank": 10,
+                "paper_id": "paper_001",
+                "chunk_id": 3,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.551372766494751
+            }
+        ],
+        "reranked_top5": [
+            {
+                "rank": 1,
+                "paper_id": "paper_001",
+                "chunk_id": 6,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6712889671325684,
+                "rerank_score": 0.9936291575431824
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 4,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6236037015914917,
+                "rerank_score": 0.9654204845428467
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_002",
+                "chunk_id": 11,
+                "title": "RAG System for Supporting Japanese Litigation Procedures: Faithful Response Generation Complying with Legal Norms",
+                "arxiv_url": "http://arxiv.org/abs/2511.22858v1",
+                "retrieval_score": 0.5873886346817017,
+                "rerank_score": 0.9586485624313354
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_003",
+                "chunk_id": 9,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5614508390426636,
+                "rerank_score": 0.5559806227684021
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5915787220001221,
+                "rerank_score": 0.4897350072860718
+            }
+        ]
+    },
+    "q7": {
+        "question": "What methods can detect hallucinations without access to the internal states of a language model?",
+        "retrieval_top10": [
+            {
+                "rank": 1,
+                "paper_id": "paper_003",
+                "chunk_id": 49,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6641722917556763
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 41,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6060630083084106
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_001",
+                "chunk_id": 2,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6005946397781372
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_004",
+                "chunk_id": 7,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.5971591472625732
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_001",
+                "chunk_id": 6,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5956180095672607
+            },
+            {
+                "rank": 6,
+                "paper_id": "paper_001",
+                "chunk_id": 38,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5928585529327393
+            },
+            {
+                "rank": 7,
+                "paper_id": "paper_001",
+                "chunk_id": 27,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5888136625289917
+            },
+            {
+                "rank": 8,
+                "paper_id": "paper_003",
+                "chunk_id": 38,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5811735391616821
+            },
+            {
+                "rank": 9,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5811295509338379
+            },
+            {
+                "rank": 10,
+                "paper_id": "paper_005",
+                "chunk_id": 32,
+                "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+                "arxiv_url": "http://arxiv.org/abs/2608.18115v1",
+                "retrieval_score": 0.5769718885421753
+            }
+        ],
+        "reranked_top5": [
+            {
+                "rank": 1,
+                "paper_id": "paper_001",
+                "chunk_id": 38,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5928585529327393,
+                "rerank_score": 0.998244047164917
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_005",
+                "chunk_id": 32,
+                "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+                "arxiv_url": "http://arxiv.org/abs/2608.18115v1",
+                "retrieval_score": 0.5769718885421753,
+                "rerank_score": 0.9627895355224609
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_003",
+                "chunk_id": 49,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6641722917556763,
+                "rerank_score": 0.9599480628967285
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_004",
+                "chunk_id": 7,
+                "title": "Efficient Hallucination Detection: Adaptive Bayesian Estimation of Semantic Entropy with Guided Semantic Exploration",
+                "arxiv_url": "http://arxiv.org/abs/2603.22812v1",
+                "retrieval_score": 0.5971591472625732,
+                "rerank_score": 0.9582656025886536
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_001",
+                "chunk_id": 2,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.6005946397781372,
+                "rerank_score": 0.9530507922172546
+            }
+        ]
+    },
+    "q8": {
+        "question": "How are multiple signals combined for token-level hallucination detection?",
+        "retrieval_top10": [
+            {
+                "rank": 1,
+                "paper_id": "paper_001",
+                "chunk_id": 6,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5778191089630127
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_001",
+                "chunk_id": 5,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5764715671539307
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_003",
+                "chunk_id": 3,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5701377391815186
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_001",
+                "chunk_id": 4,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5573177933692932
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5554294586181641
+            },
+            {
+                "rank": 6,
+                "paper_id": "paper_003",
+                "chunk_id": 31,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5270850658416748
+            },
+            {
+                "rank": 7,
+                "paper_id": "paper_001",
+                "chunk_id": 3,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5255530476570129
+            },
+            {
+                "rank": 8,
+                "paper_id": "paper_003",
+                "chunk_id": 16,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5237335562705994
+            },
+            {
+                "rank": 9,
+                "paper_id": "paper_005",
+                "chunk_id": 1,
+                "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+                "arxiv_url": "http://arxiv.org/abs/2608.18115v1",
+                "retrieval_score": 0.520812451839447
+            },
+            {
+                "rank": 10,
+                "paper_id": "paper_003",
+                "chunk_id": 4,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5197036266326904
+            }
+        ],
+        "reranked_top5": [
+            {
+                "rank": 1,
+                "paper_id": "paper_005",
+                "chunk_id": 1,
+                "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+                "arxiv_url": "http://arxiv.org/abs/2608.18115v1",
+                "retrieval_score": 0.520812451839447,
+                "rerank_score": 0.9948411583900452
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_001",
+                "chunk_id": 5,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5764715671539307,
+                "rerank_score": 0.7948461771011353
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_003",
+                "chunk_id": 3,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5701377391815186,
+                "rerank_score": 0.7584633827209473
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_001",
+                "chunk_id": 6,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5778191089630127,
+                "rerank_score": 0.18274983763694763
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_003",
+                "chunk_id": 16,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5237335562705994,
+                "rerank_score": 0.05317698419094086
+            }
+        ]
+    },
+    "q9": {
+        "question": "What role does uncertainty or model confidence play in hallucination detection?",
+        "retrieval_top10": [
+            {
+                "rank": 1,
+                "paper_id": "paper_001",
+                "chunk_id": 5,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.7043460607528687
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 17,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5815188884735107
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_001",
+                "chunk_id": 3,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5756003856658936
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_003",
+                "chunk_id": 4,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5577933192253113
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_003",
+                "chunk_id": 18,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5499048233032227
+            },
+            {
+                "rank": 6,
+                "paper_id": "paper_003",
+                "chunk_id": 31,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5444314479827881
+            },
+            {
+                "rank": 7,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5340462923049927
+            },
+            {
+                "rank": 8,
+                "paper_id": "paper_001",
+                "chunk_id": 6,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5312416553497314
+            },
+            {
+                "rank": 9,
+                "paper_id": "paper_001",
+                "chunk_id": 4,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5277526378631592
+            },
+            {
+                "rank": 10,
+                "paper_id": "paper_001",
+                "chunk_id": 11,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.524596631526947
+            }
+        ],
+        "reranked_top5": [
+            {
+                "rank": 1,
+                "paper_id": "paper_001",
+                "chunk_id": 5,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.7043460607528687,
+                "rerank_score": 0.9649144411087036
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 17,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5815188884735107,
+                "rerank_score": 0.9492058753967285
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_001",
+                "chunk_id": 6,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5312416553497314,
+                "rerank_score": 0.8101661205291748
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_003",
+                "chunk_id": 18,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5499048233032227,
+                "rerank_score": 0.5702318549156189
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_001",
+                "chunk_id": 4,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5277526378631592,
+                "rerank_score": 0.41540998220443726
+            }
+        ]
+    },
+    "q10": {
+        "question": "What are the future research directions for hallucination detection?",
+        "retrieval_top10": [
+            {
+                "rank": 1,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6472088098526001
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 31,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6320194005966187
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_003",
+                "chunk_id": 4,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6006550788879395
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_003",
+                "chunk_id": 16,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6001911163330078
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_001",
+                "chunk_id": 5,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5766974687576294
+            },
+            {
+                "rank": 6,
+                "paper_id": "paper_003",
+                "chunk_id": 41,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5729045867919922
+            },
+            {
+                "rank": 7,
+                "paper_id": "paper_001",
+                "chunk_id": 6,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5668203830718994
+            },
+            {
+                "rank": 8,
+                "paper_id": "paper_003",
+                "chunk_id": 33,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5607825517654419
+            },
+            {
+                "rank": 9,
+                "paper_id": "paper_003",
+                "chunk_id": 3,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5544002056121826
+            },
+            {
+                "rank": 10,
+                "paper_id": "paper_001",
+                "chunk_id": 4,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5526432394981384
+            }
+        ],
+        "reranked_top5": [
+            {
+                "rank": 1,
+                "paper_id": "paper_003",
+                "chunk_id": 3,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5544002056121826,
+                "rerank_score": 0.9880692362785339
+            },
+            {
+                "rank": 2,
+                "paper_id": "paper_003",
+                "chunk_id": 35,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6472088098526001,
+                "rerank_score": 0.9392015337944031
+            },
+            {
+                "rank": 3,
+                "paper_id": "paper_001",
+                "chunk_id": 6,
+                "title": "Probabilistic distances-based hallucination detection in LLMs with RAG",
+                "arxiv_url": "http://arxiv.org/abs/2506.09886v2",
+                "retrieval_score": 0.5668203830718994,
+                "rerank_score": 0.5334686040878296
+            },
+            {
+                "rank": 4,
+                "paper_id": "paper_003",
+                "chunk_id": 4,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.6006550788879395,
+                "rerank_score": 0.4915182888507843
+            },
+            {
+                "rank": 5,
+                "paper_id": "paper_003",
+                "chunk_id": 41,
+                "title": "OpenHalDet: A Unified Benchmark for Hallucination Detection across Diverse Generation Scenarios",
+                "arxiv_url": "http://arxiv.org/abs/2606.06959v1",
+                "retrieval_score": 0.5729045867919922,
+                "rerank_score": 0.4510846436023712
+            }
+        ]
+    }
+}
